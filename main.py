@@ -1,4 +1,4 @@
-//author:vatsal verma
+#author:vatsal verma
 import sys
 import sorting as s
 import visualizer as vs

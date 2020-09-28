@@ -22,7 +22,7 @@ Algorithms covererd in this project are :
 | Insertion Sort  |  insertion_sort |
 | Merge Sort      |  merge_sort     |
 | Quick Sort      |  quick_sort     |
-| Bubble Sort     |  bubble_sor     |
+| Bubble Sort     |  bubble_sort    |
 | Heap Sort       |  heap_sort      |
 
 
